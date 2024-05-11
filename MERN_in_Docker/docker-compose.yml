@@ -1,4 +1,4 @@
-version: "3"
+version: "3" #version of docker compose 
 services:
   server:
     build: 
